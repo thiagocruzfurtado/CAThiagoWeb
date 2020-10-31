@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(145, 183, 201); /*cor de fundo*/
+}
+.jumbotron {
+    background-color: rgb(145, 183, 201); /* cor de fundo*/
+}
+
+.table-div-link { /* estilização div dos links da tabela*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+
+.place-img { /*Estilização div das imagens dos locais*/
+  height: 200px;
+  background: #aaa;
+  overflow: hidden;
+}
+.place-img img { /*Estilização das imagens dos locais*/
+  display: block; /*Display block para a imagem não fugir do tamanho da div*/
+  width: 100%; 
+}
+
+.div-table { /*Div de estilização da tabela*/
+  width: 100%;
+}
+tr {
+  border: 0.3rem solid black;
+}
+.th-table { /*Estilização da DIV dos TH da tabela*/
+  border: 0.3rem solid black;
+  background: #0e1616;
+  color: white;
+}
+.table { /*Estilização da div da tabela*/
+  border: 0.3rem solid black;
+  width: 50rem;
+  margin: 0rem auto;
+}
+td {
+  border: 0.3rem solid black;
+}
+tr:hover { /*Efeito hover em cada TR da tabela, alterando o background-color*/
+  background-color: #d9dfdf;
+}
+
+.wonderful-seven { /*Estilização da div das sete maravilhas do mundo*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.wonderful-seven ul li { /*Estilização da descrição das sete maravilhas do mundo em forma de lista*/
+  list-style: none;
+}
+
+.gratefulness { /*Estilização da div de agradecimentos*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
