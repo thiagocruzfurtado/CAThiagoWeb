@@ -1,4 +1,4 @@
-<?php include('include/header.php'); ?> <!--including file table of header.php -->
+<?php include('include/header.php'); ?> <!--including file TEST table of header.php -->
 
 <div class="container">
   <div class="row">
