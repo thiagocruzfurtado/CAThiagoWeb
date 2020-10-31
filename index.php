@@ -8,7 +8,7 @@
       <p> Here you can find some Country and Capital; </p>
       <p>
         <a href="array.php"><b>Table of Country and Capital / </b></a> <!--Requested file table of array.php -->
-        <a href="form.php"><b>Find the Capital</b></a> <!--Requested file table of form.php -->
+        <a href="form.php"><b>Find the Capital</b></a> <!--Requested file table  of form.php -->
       </p>
     </div>
 
